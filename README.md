@@ -1,5 +1,5 @@
 # USD/EUR Exchange Rate Forecasting with ARMA-GARCH
-## *Stat131: Time Series and Prediction, Final Project*
+*Stat131: Time Series and Prediction, Final Project*
 
 This project models and forecasts the weekly returns and volatility of the USD/EUR foreign exchange rate using time series techniques. Using data from FRED (2009–2025), we preprocess the series into weekly log returns and evaluate multiple time series models, ultimately selecting an ARMA(0,1) + GARCH(2,1) model with Student-t errors.
 
